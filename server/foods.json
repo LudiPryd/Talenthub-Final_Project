@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MIE GACOAN LV 0",
+    "imageUrl": "https://vmenu.id/storage/menu/16707438716395873f5ffcb.jpg",
+    "price": 11500,
+    "desc": "Mie dengan cita rasa manis gurih tidak pedas"
+  },
+  {
+    "name": "MIE GACOAN LV 1",
+    "imageUrl": "https://vmenu.id/storage/menu/16707438716395873f5ffcb.jpg",
+    "price": 11500,
+    "desc": "Mie dengan cita rasa manis gurih dengan tingkat kepedasan level 1"
+  },
+  {
+    "name": "MIE GACOAN LV 2",
+    "imageUrl": "https://vmenu.id/storage/menu/16707438716395873f5ffcb.jpg",
+    "price": 11500,
+    "desc": "Mie dengan cita rasa manis gurih dengan tingkat kepedasan level 2"
+  },
+  {
+    "name": "MIE SUIT",
+    "imageUrl": "https://vmenu.id/storage/menu/167074536263958d1290938.jpg",
+    "price": 11500,
+    "desc": "Mie asin gurih tidak pedas"
+  },
+  {
+    "name": "MIE HOMPIMPA LV 1",
+    "imageUrl": "https://vmenu.id/storage/menu/167074536263958d1290938.jpg",
+    "price": 11500,
+    "desc": "Mie asin gurih dengan pedas level 1"
+  },
+  {
+    "name": "MIE HOMPIMPA LV 2",
+    "imageUrl": "https://vmenu.id/storage/menu/167074536263958d1290938.jpg",
+    "price": 11500,
+    "desc": "Mie asin gurih dengan pedas level 2"
+  },
+  {
+    "name": "UDANG KEJU",
+    "imageUrl": "https://vmenu.id/storage/menu/167074584963958ef9370ed.jpg",
+    "price": 10000,
+    "desc": "Pentol udang dengan isian keju lumer"
+  },
+  {
+    "name": "UDANG RAMBUT",
+    "imageUrl": "https://vmenu.id/storage/menu/167074588963958f2168694.jpg",
+    "price": 10000,
+    "desc": "Pentol udang dengan balutan kulit pangsit yg renyah"
+  },
+  {
+    "name": "SIOMAY",
+    "imageUrl": "https://vmenu.id/storage/menu/167074592963958f4961453.jpg",
+    "price": 10000,
+    "desc": "Siomay disajikan dengan saus spesial"
+  },
+  {
+    "name": "LUMPIA UDANG",
+    "imageUrl": "https://vmenu.id/storage/menu/167074947263959d20c6db7.jpg",
+    "price": 10000,
+    "desc": "Lumpia udang"
+  },
+  {
+    "name": "PANGSIT GORENG",
+    "imageUrl": "https://vmenu.id/storage/menu/167074953063959d5aa2d58.jpg",
+    "price": 11000,
+    "desc": "Pangsit isi 5"
+  },
+  {
+    "name": "AIR MINERAL",
+    "imageUrl": "https://vmenu.id/storage/menu/167074982163959e7d5f676.jpg",
+    "price": 4500,
+    "desc": null
+  },
+  {
+    "name": "ES TEH",
+    "imageUrl": "https://vmenu.id/storage/menu/167074956763959d7f35c05.jpg",
+    "price": 4500,
+    "desc": null
+  },
+  {
+    "name": "ES GOBAK SODOR",
+    "imageUrl": "https://vmenu.id/storage/menu/167075003563959f536af84.jpg",
+    "price": 10000,
+    "desc": null
+  },
+  {
+    "name": "ES PETAK UMPET",
+    "imageUrl": "https://vmenu.id/storage/menu/167075005563959f676abfe.jpg",
+    "price": 10000,
+    "desc": null
+  }
+]
